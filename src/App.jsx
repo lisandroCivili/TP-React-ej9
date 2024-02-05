@@ -115,7 +115,7 @@ const App = () => {
 
       <div className="mt-4">
         {citas.map((cita, index) => (
-          <div key={index} className="card" style={{ width: '18rem', marginBottom: '20px' }}>
+          <div key={index} className="card w-25 mb-3">
             <div className="card-body">
               <h5 className="card-title">{cita.nombreMascota}</h5>
               <h6 className="card-subtitle mb-2 text-muted">{cita.nombreDueno}</h6>
