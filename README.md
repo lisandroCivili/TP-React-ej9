@@ -1,4 +1,4 @@
-# Formualrio veterinaria
+# Formulario veterinaria
 
 Este formulario sirve para agregar citas con el veterinario. Se muestran como cards y tiene la opcion de eliminarlas.
 
